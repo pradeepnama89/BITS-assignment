@@ -39,9 +39,9 @@ sample output images:
 
 <hr>
 <strong>Hierarchical clustering:</strong>
-<br>
+
 $ python Hierarchical_clustering.py<br>
-Output:<br>
+Output:
 [[3.90544656 7.34177823 7.57485147]
  [1.21434892 1.083003   0.77979782]]
 Number of estimated clusters: 2
@@ -65,8 +65,8 @@ Number of estimated clusters: 2
 
 <hr>
 <strong>K-Mean Clustering:</strong>
-<br>
+
 $ python K-Mean_Clustering.py<br>
-Output:<br>
+Output:
 ![alt text](https://github.com/pradeepnama89/BITS-assignment/blob/master/K-Mean_Clustering.png)
 
