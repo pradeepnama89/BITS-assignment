@@ -24,16 +24,22 @@ example:
 <strong>Decision Tree:</strong>
 
 $ python Decission_Tree.py
+
 output:
+
 ['woman']
 
 <hr>
 <strong>Fuzzy C-Mean Clustering:</strong>
 
 $ python Fuzzy_c-mean_Clustering.py
+
 Output:
+
 In this execution there will be 6 outputs, 
+
 sample output images:
+
 ![alt text](https://github.com/pradeepnama89/BITS-assignment/blob/master/Fuzzy-c-mean1.png)
 ![alt text](https://github.com/pradeepnama89/BITS-assignment/blob/master/Fuzzy-c-mean2.png)
 ![alt text](https://github.com/pradeepnama89/BITS-assignment/blob/master/Fuzzy-c-mean3.png)
@@ -45,7 +51,9 @@ sample output images:
 <strong>Hierarchical clustering:</strong>
 
 $ python Hierarchical_clustering.py
+
 Output:
+
 [[3.90544656 7.34177823 7.57485147]
  [1.21434892 1.083003   0.77979782]]
 Number of estimated clusters: 2
@@ -71,6 +79,8 @@ Number of estimated clusters: 2
 <strong>K-Mean Clustering:</strong>
 
 $ python K-Mean_Clustering.py
+
 Output:
+
 ![alt text](https://github.com/pradeepnama89/BITS-assignment/blob/master/K-Mean_Clustering.png)
 
